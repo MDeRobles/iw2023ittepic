@@ -8,3 +8,7 @@ git add README.md
 
 # Git -a funciona para darle commit a todos los archivos que se esten actualizando
 git commit -am "Initial Commit"
+
+# Crear archivos y carpeta
+touch private.txt
+mkdir privada
