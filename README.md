@@ -12,3 +12,13 @@ git commit -am "Initial Commit"
 # Crear archivos y carpeta
 touch private.txt
 mkdir privada
+
+# Crear tabla con lo siguiente:
+------------------------------------------------------------------
+|               Nombre                  |       GitHub              |
+|---------------------------------------|----------------------------------------------|
+|Eduardo Rosalio Hernandez Montes       |   https://github.com/LalokeraXD              |
+|Sebastian Jazael Medina Rodriguez      |   https://github.com/SebastianMedina2023     |
+|Victor Manuel Pacheco Rosales          |   https://github.com/XxXelbichoXxX           |
+|Jose Gustavo Aguilar Correa            |   https://github.com/gsuvo                   |
+|Alessandra Marlett Marin Bautista      |   https://github.com/Alessandra222           |
