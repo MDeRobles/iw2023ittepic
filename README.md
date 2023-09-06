@@ -1,5 +1,6 @@
 # Crear repositorio iw2023ittepic
-![imagen](https://github.com/MDeRobles/iw2023ittepic/assets/107177208/165994bf-7b13-4217-af61-e20eaa94a09f)
+![imagen](https://github.com/MDeRobles/iw2023ittepic/assets/107177208/19447ee5-b7ef-434a-983a-976c4e6f7fc7)
+
 
 # Clonar el repositorio a Local
 git remote add o https://github.com/MDeRobles/iw2023ittepic.git
