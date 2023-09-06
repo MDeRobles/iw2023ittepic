@@ -24,3 +24,7 @@ mkdir privada
 |Alessandra Marlett Marin Bautista      |   https://github.com/Alessandra222           |
 
 # Agregar a  iarjonavizcaino como colobarador del proyecto
+
+
+# Subir todo al repositorio remoto
+git push https://github.com/MDeRobles/iw2023ittepic
