@@ -1,4 +1,4 @@
-# iw2023ittepic
+# Crear repositorio iw2023ittepic
 
 # Clonar el repositorio a Local
 git remote add o https://github.com/MDeRobles/iw2023ittepic.git
@@ -22,3 +22,5 @@ mkdir privada
 |Victor Manuel Pacheco Rosales          |   https://github.com/XxXelbichoXxX           |
 |Jose Gustavo Aguilar Correa            |   https://github.com/gsuvo                   |
 |Alessandra Marlett Marin Bautista      |   https://github.com/Alessandra222           |
+
+# Agregar a  iarjonavizcaino como colobarador del proyecto
